@@ -1,6 +1,11 @@
+![js13k logo](./js13k-logo.png) 
+
 # JS13K A-Frame Boilerplate
 
 This project is a boilerplate to start developing a WebXR game based on [A-Frame](https://aframe.io/) and [Webpack](https://webpack.js.org/) for the [js13k competition](https://2019.js13kgames.com/).
+
+
+![A-Frame logo](./a-frame.png)
 
 ## Getting Started
 
@@ -29,6 +34,10 @@ npm start
 ```
 
 This will setup a server listening at `http://localhost:8080/`.
+
+If everything went OK, you will see:
+
+![Screenshot](./screenshot.png)
 
 #### Access from another device
 
